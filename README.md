@@ -52,10 +52,14 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Corelan Team's Exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
  * [Exploit Writing Tutorials for Pentesters](http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/)
  * [Understanding the basics of Linux Binary Exploitation](https://github.com/r0hi7/BinExp)
+ * [Shells](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+ * [Missing Semester](https://missing.csail.mit.edu/2020/course-shell/)
+
 
 ## Tools
  * [Metasploit](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
  * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+ * [Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) - Tutorial on tools.
 
 ### Docker Images for Penetration Testing & Security
  * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
@@ -71,7 +75,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * `docker pull diogomonica/docker-bench-security` - [Docker Bench for Security](https://hub.docker.com/r/diogomonica/docker-bench-security/)
  * `docker pull ismisepaul/securityshepherd` - [OWASP Security Shepherd](https://hub.docker.com/r/ismisepaul/securityshepherd/)
  * `docker pull danmx/docker-owasp-webgoat` - [OWASP WebGoat Project docker image](https://hub.docker.com/r/danmx/docker-owasp-webgoat/)
- * `docker-compose build && docker-compose up` - [OWASP NodeGoat](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
+ * `docker pull vulnerables/web-owasp-nodegoat` - [OWASP NodeGoat](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
  * `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
  * `docker pull bkimminich/juice-shop` - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop#docker-container--)
  * `docker pull phocean/msf` - [Docker Metasploit](https://hub.docker.com/r/phocean/msf/)
@@ -83,8 +87,9 @@ For a list of free hacking books available for download, go [here](https://githu
 # Reverse Engineering
 
 ## Tutorials
-* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [Begin RE: A Reverse Engineering Tutorial Workshop](https://www.begin.re/the-workshop)
 * [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.kr/p/malware-analysis-tutorials-reverse.html)
+* [Malware Unicorn Reverse Engineering Tutorial](https://malwareunicorn.org/workshops/re101.html#0)
 
 ## Tools
 ### Disassemblers and debuggers
@@ -176,6 +181,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [SubFinder](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
  * [Findsubdomains](https://findsubdomains.com/) - A subdomains discovery tool that collects all possible subdomains from open source internet and validates them through various tools to provide accurate results.
  * [badtouch](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
+ * [PhpSploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
 
 ## General
  * [Strong node.js](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
@@ -202,6 +208,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Scapy](https://github.com/secdev/awesome-scapy) - A Python tool and library for low level packet creation and manipulation
  * [Amass](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
  * [sniffglue](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
+ * [RustScan][https://github.com/rustscan/rustscan] - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
 
 
 # Forensic
@@ -219,6 +226,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
  * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
  * [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
+ * [Ciphey](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
 
 
 # Wargame
@@ -298,6 +306,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## tools
 * [empire](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
 * [silenttrinity](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
+* [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell post exploitation framework
 * [ebowla](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
 # ETC

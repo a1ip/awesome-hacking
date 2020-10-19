@@ -1,4 +1,4 @@
-# Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Hacking -An Amazing Project [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Hacking. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/)
 
@@ -159,7 +159,7 @@ For a list of free hacking books available for download, go [here](https://githu
 #### Other
  * [Binwalk](https://github.com/ReFirmLabs/binwalk) -  Detects signatures, unpacks archives, visualizes entropy.
  * [Veles](https://github.com/codilime/veles) - a visualizer for statistical properties of blobs.
- * [Kaitai Struct](https://github.com/kaitai-io/kaitai_struct) - a DSL for creating parsers in a variety of programming languages. The Web IDE is particulary useful fir reverse-engineering.
+ * [Kaitai Struct](https://github.com/kaitai-io/kaitai_struct) - a DSL for creating parsers in a variety of programming languages. The Web IDE is particularly useful for reverse-engineering.
  * [Protobuf inspector](https://github.com/jmendeth/protobuf-inspector)
  * [DarunGrim](https://github.com/ohjeongwook/DarunGrim) - executable differ.
  * [DBeaver](https://github.com/dbeaver/dbeaver) - a DB editor.
@@ -182,6 +182,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Findsubdomains](https://findsubdomains.com/) - A subdomains discovery tool that collects all possible subdomains from open source internet and validates them through various tools to provide accurate results.
  * [badtouch](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
  * [PhpSploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
+ * [Git-Scanner](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
 
 ## General
  * [Strong node.js](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
@@ -282,7 +283,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [ZeroDays CTF](https://zerodays.ie/)
  * [Insomni’hack](https://insomnihack.ch/)
  * [Pico CTF](https://picoctf.com/)
- * [prompt(1) to win](http://prompt.ml/) - XSS Challeges
+ * [prompt(1) to win](http://prompt.ml/) - XSS Challenges
  * [HackTheBox](https://www.hackthebox.eu/)
 
 ## General
